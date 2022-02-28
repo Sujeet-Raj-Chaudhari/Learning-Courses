@@ -10,7 +10,7 @@ function Body() {
   const[progress, setProgress] = useState(0);
   return (
     <div className="blogs_body">
-        <Form />
+      <Form />
         <div>
           <LoadingBar height={3}
             color="#f11946"
