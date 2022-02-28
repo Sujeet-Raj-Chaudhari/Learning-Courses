@@ -1,0 +1,6 @@
+
+.blogs_body{
+    display: flex;
+    justify-content: flex-start;
+    height: 90vh;
+}
